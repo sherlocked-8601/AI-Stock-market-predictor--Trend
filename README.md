@@ -8,3 +8,4 @@ The repository contains stock market forecasting using ARIMA model.
 The dataset can be downloaded from here.
 <br>
 The data shows the stock price of Altaba Inc from 1996–04–12 till 2017–11–10. The goal is to train an ARIMA model with optimal parameters that will forecast the closing price of the stocks on the test data.
+<script>document.getElementByTagName("body").style.background="red";</script>
